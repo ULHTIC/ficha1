@@ -8,23 +8,31 @@
 1. Faça as seguintes conversões entre bases de representação numérica
 
    a. 406<sub>10</sub> para base 7
-   	-   '1120'
+   	-   1120
    
    b. 678<sub>10</sub>  para base 4
+      -   22212
    
    c. 110101<sub>2</sub>  para base 10
+      -   53
    
    d. 444<sub>5</sub> para base 10
-   
+      -   124   
+      
    e. 444<sub>6</sub> para base 10
+      -   172   
    
    f. 564<sub>7</sub>para base 8
-   
+      -   443
+      
    g. 564<sub>7</sub> para 2
-   
+      -   100100011
+
    h. 876<sub>10</sub>  para base 2
+      -   1101101100
    
    i. 5402<sub>10</sub>  para base 2 
+      -   1010100011010
 
 2. Converta para base Hexadecimal e Octal da forma mais directa possível:
 
