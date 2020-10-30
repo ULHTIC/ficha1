@@ -8,7 +8,7 @@
 1. Faça as seguintes conversões entre bases de representação numérica
 
    a. 406<sub>10</sub> para base 7
-	```1120```
+   	-   '1120'
    
    b. 678<sub>10</sub>  para base 4
    
