@@ -100,12 +100,16 @@
 6. Considerando um processador com 8bits. Calcule o resultado das seguintes operações lógicas. Assuma que os operandos estão representados em Complemento para 2. Faça as contas todas em binário e no fim converta o resultado para décimal.
 
     1. 0xFF OR 0xF4
+        - 0xFF = -1<sub>10</sub>
    
     2. (NOT 0xFF) XOR 0xAA
+        - 0xAA = -86<sub>10</sub>    
    
     3. NOT(0x48 AND 0xFF)
+        - NOT(0x48) = 0xB7 = -73<sub>10</sub>      
    
     4. 0xAB AND (NOT 0x48) OR 0xFA AND 0x55
+        - 0x51 = 81<sub>10</sub>
 
 
 7. Qual intervalo de números com sinal possíveis de representar com 5 bits em Complemento para 2?
