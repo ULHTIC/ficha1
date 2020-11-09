@@ -51,39 +51,39 @@
 3. Converta para base Decimal assumindo que o número está em complemento para 2.
 
    a. 00101100<sub>2</sub>
-         -   = 44<sub>10</sub>    
+      -   = 44<sub>10</sub>    
    
    b. 01010101<sub>2</sub>
-         -   = 85<sub>10</sub>  
+      -   = 85<sub>10</sub>  
    
    c. 00100111<sub>2</sub>
-         -   = 39<sub>10</sub>     
+      -   = 39<sub>10</sub>     
    
    d. 10101100<sub>2</sub>
-         -   = -128+44 = -84<sub>10</sub>     
+      -   = -128+44 = -84<sub>10</sub>     
    
    e. 11010101<sub>2</sub>
-         -   = -128+85 = -43<sub>10</sub>     
+      -   = -128+85 = -43<sub>10</sub>     
    
    f. 10100111<sub>2</sub>
-         -   = -128+39 = -89<sub>10</sub>     
+      -   = -128+39 = -89<sub>10</sub>     
 
 4. Considerando um processador com 8bits. Calcule o resultado das seguintes operações e diga se ocorre overflow. Assuma que os operandos estão representados em Complemento para 2. Faça as contas todas em binário e no fim converta o resultado para décimal
 
    a. 0xF0+0xF4
-         -   = 0xE4 = -28<sub>10</sub>. Não há Overflow.
+      -   = 0xE4 = -28<sub>10</sub>. Não há Overflow.
    
    b. 0xF0-0xF4
-         -   = 0xFC = -4<sub>10</sub>. Não há Overflow.
+      -   = 0xFC = -4<sub>10</sub>. Não há Overflow.
    
    c. 0x77+0x77
-         -   = 0xEE = -18<sub>10</sub>. Há Overflow.   
+      -   = 0xEE = -18<sub>10</sub>. Há Overflow.   
    
    d. 0x03×0x02
-         -   = 0x06 = 6<sub>10</sub>. Não há Overflow.  
+      -   = 0x06 = 6<sub>10</sub>. Não há Overflow.  
    
    e. 0xFF×0x04
-         -   = 0xFC = -4<sub>10</sub>. Não há Overflow.
+      -   = 0xFC = -4<sub>10</sub>. Não há Overflow.
 
 5. Considere um processador com 4-bits. Qual das seguintes afirmações é correcta sobre o sinal de Overflow resultante de uma soma ou subtracção.
 
