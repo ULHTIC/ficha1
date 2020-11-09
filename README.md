@@ -7,77 +7,113 @@
 
 1. Faça as seguintes conversões entre bases de representação numérica
 
-   a. 406<sub>10</sub> para base 7
+    1. 406<sub>10</sub> para base 7
    
-   b. 678<sub>10</sub>  para base 4
+    2. 678<sub>10</sub>  para base 4
    
-   c. 110101<sub>2</sub>  para base 10
+    3. 110101<sub>2</sub>  para base 10
    
-   d. 444<sub>5</sub> para base 10
+    4. 444<sub>5</sub> para base 10
+      
+    5. 444<sub>6</sub> para base 10
    
-   e. 444<sub>6</sub> para base 10
+    6. 564<sub>7</sub>para base 8
+      
+    7. 564<sub>7</sub> para 2
+
+    8. 876<sub>10</sub>  para base 2
    
-   f. 564<sub>7</sub>para base 8
-   
-   g. 564<sub>7</sub> para 2
-   
-   h. 876<sub>10</sub>  para base 2
-   
-   i. 5402<sub>10</sub>  para base 2 
+    9. 5402<sub>10</sub>  para base 2 
 
 2. Converta para base Hexadecimal e Octal da forma mais directa possível:
 
-   a. 0100101011001111<sub>2</sub>
+    1. 0100101011001111<sub>2</sub>
    
-   b. 0010110011011011<sub>2</sub>
+    2. 0010110011011011<sub>2</sub>
    
-   c. 0110111011101111<sub>2</sub>
+    3. 0110111011101111<sub>2</sub>
    
-   d. 1111111111111111<sub>2</sub>
+    4. 1111111111111111<sub>2</sub>
 
 3. Converta para base Decimal assumindo que o número está em complemento para 2.
 
-   a. 00101100<sub>2</sub> 
+    1. 00101100<sub>2</sub>
    
-   b. 01010101<sub>2</sub>
+    2. 01010101<sub>2</sub>
    
-   c. 00100111<sub>2</sub>
+    3. 00100111<sub>2</sub>
    
-   d. 10101100<sub>2</sub>
+    4. 10101100<sub>2</sub>
    
-   e. 11010101<sub>2</sub>
+    5. 11010101<sub>2</sub>
    
-   f. 10100111<sub>2</sub>
+    6. 10100111<sub>2</sub>
 
 4. Considerando um processador com 8bits. Calcule o resultado das seguintes operações e diga se ocorre overflow. Assuma que os operandos estão representados em Complemento para 2. Faça as contas todas em binário e no fim converta o resultado para décimal
 
-   a. 0xF0+0xF4
+    1. 0xF0+0xF4
    
-   b. 0xF0-0xF4
+    2. 0xF0-0xF4
    
-   c. 0x77+0x77
+    3. 0x77+0x77
    
-   d. 0x03×0x02
+    4. 0x03×0x02
    
-   e. 0xFF×0x04
+    5. 0xFF×0x04
 
 5. Considere um processador com 4-bits. Qual das seguintes afirmações é correcta sobre o sinal de Overflow resultante de uma soma ou subtracção.
 
-   a. Ocorre quando o bit de transporte que sai do bit mais significativo é diferente de ‘0’
+    1. Ocorre quando o bit de transporte que sai do bit mais significativo é diferente de ‘0’
    
-   b. Nunca ocorre quando os operadores têm sinal diferente
+    2. Nunca ocorre quando os operadores têm sinal diferente
    
-   c. Ocorre sempre que se somam dois operandos do mesmo sinal
+    3. Ocorre sempre que se somam dois operandos do mesmo sinal
    
-   d. Nenhuma das anteriores
+    4. Nenhuma das anteriores
 
 
 6. Considerando um processador com 8bits. Calcule o resultado das seguintes operações lógicas. Assuma que os operandos estão representados em Complemento para 2. Faça as contas todas em binário e no fim converta o resultado para décimal.
 
-   a. 0xFF OR 0xF4
+    1. 0xFF OR 0xF4
    
-   b. (NOT 0xFF) XOR 0xAA
+    2. (NOT 0xFF) XOR 0xAA
    
-   c. NOT(0x48 AND 0xFF)
+    3. NOT(0x48 AND 0xFF)
    
-   d. 0xAB AND (NOT 0x48) OR 0xFA AND 0x55
+    4. 0xAB AND (NOT 0x48) OR 0xFA AND 0x55
+
+
+7. Qual intervalo de números com sinal possíveis de representar com 5 bits em Complemento para 2?
+
+    1.   Com sinal
+
+    2.   Sem sinal?
+   
+8. Num computador, quais as principais diferenças entre a memória principal (RAM) e secundária (discos)?
+
+9. Num CPU, qual é a função do banco de registos?
+
+10. Calcule o resultado das seguintes operações lógicas. Indique o resultado em base hexadecimal.
+    1. A = 0xAA, B = 0x85
+        1. A OR B
+
+        2. A AND B
+         
+        3. A XOR B
+         
+        4. (NOT B) AND A
+         
+        5. (NOT B) OR A
+         
+    2. A = 0xAA, B = 0xFF
+        1. A OR B
+         
+        2. A AND B
+         
+        3. A XOR B
+         
+        4. (NOT B) AND A
+         
+        5. (NOT B) OR A
+
+
