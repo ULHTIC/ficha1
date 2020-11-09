@@ -123,22 +123,21 @@
    -   Ver slides
 
 10. Calcule o resultado das seguintes operações lógicas. Indique o resultado em base hexadecimal.
+    1. A = 0xAA, B = 0x85
+        1. A OR B
+            -   = 0xAF
 
-   10.1. A = 0xAA, B = 0x85
-      10.1.1. A OR B
-         -   = 0xAF
+        2. A AND B
+            -   = 0x80
          
-      10.12. A AND B
-         -   = 0x80
+        3. A XOR B
+            -   = 0x2F
          
-      10.13. A XOR B
-         -   = 0x2F
+        4. (NOT B) AND A
+            -   = 0xAA
          
-      10.14. (NOT B) AND A
-         -   = 0xAA
-         
-      10.15. (NOT B) OR A
-         -   = 0xFA
+        5. (NOT B) OR A
+            -   = 0xFA
          
    10.2. A = 0xAA, B = 0xFF
    
