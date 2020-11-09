@@ -37,16 +37,16 @@
 2. Converta para base Hexadecimal e Octal da forma mais directa possível:
 
    a. 0100101011001111<sub>2</sub>
-         -   0x4ACF = 045317<sub>8</sub>
+      -   0x4ACF = 045317<sub>8</sub>
    
    b. 0010110011011011<sub>2</sub>
-         -   0x2CDB = 026333<sub>8</sub>   
+      -   0x2CDB = 026333<sub>8</sub>   
    
    c. 0110111011101111<sub>2</sub>
-         -   0x6EEF = 067357<sub>8</sub>   
+      -   0x6EEF = 067357<sub>8</sub>   
    
    d. 1111111111111111<sub>2</sub>
-         -   0xFFFF = 177777<sub>8</sub>   
+      -   0xFFFF = 177777<sub>8</sub>   
 
 3. Converta para base Decimal assumindo que o número está em complemento para 2.
 
@@ -124,28 +124,38 @@
 
 10. Calcule o resultado das seguintes operações lógicas. Indique o resultado em base hexadecimal.
 
-   a.   A = 0xAA, B = 0x85
-      i.   A OR B
+   a. A = 0xAA, B = 0x85
+   
+      i. A OR B
          -   = 0xAF
-      ii.	A AND B
+         
+      ii. A AND B
          -   = 0x80
-      iii.	A XOR B
+         
+      iii. A XOR B
          -   = 0x2F
-      iv.	(NOT B) AND A
+         
+      iv. (NOT B) AND A
          -   = 0xAA
-      v.	(NOT B) OR A
+         
+      v. (NOT B) OR A
          -   = 0xFA
 
-   b.   A = 0xAA, B = 0xFF
-      i.   A OR B
+   b. A = 0xAA, B = 0xFF
+   
+      i. A OR B
          -   = 0xFF
-      ii.   A AND B
+         
+      ii. A AND B
          -   = AA
-      iii.   A XOR B
+         
+      iii. A XOR B
          -   = 0x55
-      iv.   (NOT B) AND A
+         
+      iv. (NOT B) AND A
          -   = 0x00
-      v.   (NOT B) OR A
+         
+      v. (NOT B) OR A
          -   = 0xAA
 
 
