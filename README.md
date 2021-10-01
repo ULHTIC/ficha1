@@ -60,6 +60,12 @@
     4. 0x03×0x02
    
     5. 0xFF×0x04
+   
+    6. 0xFF - 0x01
+    
+    7. 0x7F - 0x05
+    
+    8. 0x5C - 0xFF
 
 5. Considere um processador com 4-bits. Qual das seguintes afirmações é correcta sobre o sinal de Overflow resultante de uma soma ou subtracção.
 
@@ -116,4 +122,5 @@
          
         5. (NOT B) OR A
 
-
+12. Reescreva a seguinte operação lógica de forma a não utilizar o operador AND
+    1.   (A OR B) AND (C OR D)
