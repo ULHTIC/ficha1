@@ -122,5 +122,6 @@
          
         5. (NOT B) OR A
 
-12. Reescreva a seguinte operação lógica de forma a não utilizar o operador AND
+12. Reescreva a seguinte operação lógica de forma a não utilizar o operador AND e desenhe o circuito resultante
     1.   (A OR B) AND (C OR D)
+
